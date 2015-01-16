@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragmen tExample</string>
+    <string name="str_next">Next</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="xin_chao">Xin chào!</string>
+
+</resources>
